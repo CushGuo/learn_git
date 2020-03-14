@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Add a merge.
 Test no-ff and ff.
 Test ff.
+Tets no-ff.
