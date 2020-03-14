@@ -8,3 +8,4 @@ Test no-ff and ff.
 Test ff.
 Test no-ff.
 Test branch management.
+Test the bug branch.
