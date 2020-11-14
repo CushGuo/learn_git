@@ -25,3 +25,6 @@ test git checkout
 test git checkout
 -------------------------------
 test git fetch
+-------------------------------
+22:09 2020/11/14
+test:test git push
