@@ -16,7 +16,8 @@ ggc
 
 ------------------------------
 10:49 2020/11/13
-test git checkout,and test again
+
+test git checkout
 ------------------------------
 16:07 2020/11/13
 test git push
